@@ -6,3 +6,4 @@
 | :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
 | 01  | [Expanding Cards](https://github.com/0bruno/Challenge-50DaysCode/tree/master/01-expending-cards)                             | [Live Demo](https://50projects50days.com/projects/expanding-cards/)   
 | 02  | [Progress Steps](https://github.com/0bruno/Challenge-50DaysCode/tree/master/02-Progress-steps)                               | [Live Demo](https://50projects50days.com/projects/progress-steps/)   
+| 03  | [Rotating Navigation Animation](https://github.com/0bruno/Challenge-50DaysCode/tree/master/03-Rotating-navigator)                       | [Live Demo](https://50projects50days.com/projects/rotating-navigation-animation/)
