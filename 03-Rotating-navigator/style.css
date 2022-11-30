@@ -78,6 +78,11 @@ nav {
   z-index: 100;
 }
 
+nav a {
+  text-decoration: none;
+  color: #fff;
+}
+
 nav ul {
   list-style-type: none;
   padding-left: 30px;
